@@ -1,1 +1,1 @@
-# ClimateChangeResearch
+# Smart Thermostat Research Project
